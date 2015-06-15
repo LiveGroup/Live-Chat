@@ -5,7 +5,6 @@ var eventproxy = require('eventproxy');
 var UserProxy = require('./user.js');
 
 /*
- * 
  * 新建一条通知
  */ 
 exports.newAndSave = function(content, sender_id, sender_name, sender_avatar, receiver_id, has_read, callback) {
