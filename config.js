@@ -31,7 +31,7 @@ var config = {
     host: "localhost",
 
     // mongodb配置
-    db: "mongodb://127.0.0.1/Live-Chat-SAD",
+    db: "mongodb://127.0.0.1/Live-Chat",
     
     // redis 配置，默认是本地
     redis_host: 'redis.duapp.com',
